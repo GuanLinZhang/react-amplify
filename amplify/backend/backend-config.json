@@ -17,7 +17,7 @@
     }
   },
   "auth": {
-    "myappa80b8954": {
+    "myappa4571c22": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],

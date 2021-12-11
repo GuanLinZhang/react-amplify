@@ -12,14 +12,14 @@
       "AmplifyAppId": "d1mi5i642ya1hx"
     },
     "categories": {
-      "auth": {
-        "myappa80b8954": {}
-      },
       "hosting": {
         "amplifyhosting": {
           "appId": "d1mi5i642ya1hx",
           "type": "manual"
         }
+      },
+      "auth": {
+        "myappa4571c22": {}
       }
     }
   }
